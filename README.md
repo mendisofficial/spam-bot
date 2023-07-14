@@ -13,8 +13,9 @@ Before running the program, make sure you have the following installed:
 1. Run the `spam_bot.py` script.
 2. Enter the message you want to spam when prompted.
 3. Enter the number of times you want to send the message.
-4. Enter the delay between each message (in seconds).
-5. The program will start spamming after the specified delay.
+4. Set a countdown (in seconds, this gives you time to move the cursor to wherever you want to typewrite the spam messages)
+5. Enter the delay between each message (in seconds).
+6. The program will start spamming after the specified delay.
 
 ## Important Note
 
